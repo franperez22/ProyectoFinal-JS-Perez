@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Presupuesto</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Simulador de Presupuesto</h1>
+    </header>
+    <div class="container">
+        <section id="budget-form">
+            <h2>Ingrese su presupuesto</h2>
+            <input type="number" id="budget-input" placeholder="Ingrese su presupuesto">
+            <button id="budget-submit">Guardar Presupuesto</button>
+        </section>
+        <section id="expenses-form">
+            <h2>Ingrese sus gastos</h2>
+            <input type="text" id="expense-name" placeholder="Nombre del gasto">
+            <input type="number" id="expense-amount" placeholder="Monto del gasto">
+            <button id="expense-submit">Agregar Gasto</button>
+        </section>
+        <section id="budget-summary">
+            <h2>Resumen del Presupuesto</h2>
+            <div id="total-budget">
+                <p>Presupuesto Total: $<span id="budget-amount">0</span></p>
+            </div>
+            <div id="total-expenses">
+                <p>Gastos Totales: $<span id="expenses-amount">0</span></p>
+            </div>
+            <div id="remaining-budget">
+                <p>Presupuesto Restante: $<span id="remaining-amount">0</span></p>
+            </div>
+        </section>
+        <button id="clear-local-storage" class="clear-button">Borrar Datos</button>
+    </div>
+    <script src="./main.js"></script>
+</body>
+</html>
