@@ -1,0 +1,152 @@
+[
+    {
+        "id": "buzo-01",
+        "titulo": "Buzo Armani",
+        "imagen": "./img/buzo 01.webp",
+        "categoria": {
+            "nombre": "buzos",
+            "id": "buzos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "buzo-02",
+        "titulo": "Buzo Casco",
+        "imagen": "./img/buzo 02.webp",
+        "categoria": {
+            "nombre": "buzos",
+            "id": "buzos"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "buzo-03",
+        "titulo": "Buzo Pirez",
+        "imagen": "./img/buzo 03.webp",
+        "categoria": {
+            "nombre": "buzos",
+            "id": "buzos"
+        },
+        "precio": 14000
+    },
+    {
+        "id": "buzo-04",
+        "titulo": "Buzo Funes Mori",
+        "imagen": "./img/buzo 04.webp",
+        "categoria": {
+            "nombre": "buzos",
+            "id": "buzos"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "buzo-05",
+        "titulo": "Buzo Diaz",
+        "imagen": "./img/buzo 05.webp",
+        "categoria": {
+            "nombre": "buzos",
+            "id": "buzos"
+        },
+        "precio": 13000
+    },
+    {
+        "id": "remera-01",
+        "titulo": "Remera EnzoPe",
+        "imagen": "./img/remera 01.jfif",
+        "categoria": {
+            "nombre": "remeras",
+            "id": "remeras"
+        },
+        "precio": 91218
+    },
+    {
+        "id": "remera-02",
+        "titulo": "Remera Aliendro",
+        "imagen": "./img/remera 02.jfif",
+        "categoria": {
+            "nombre": "remeras",
+            "id": "remeras"
+        },
+        "precio": 29000
+    },
+    {
+        "id": "remera-03",
+        "titulo": "Remera DLC",
+        "imagen": "./img/remera 03.jfif",
+        "categoria": {
+            "nombre": "remeras",
+            "id": "remeras"
+        },
+        "precio": 11000
+    },
+    {
+        "id": "remera-04",
+        "titulo": "Remera Barco",
+        "imagen": "./img/remera 04.jfif",
+        "categoria": {
+            "nombre": "remeras",
+            "id": "remeras"
+        },
+        "precio": 21000
+    },
+    {
+        "id": "remera-05",
+        "titulo": "Remera Lanzini",
+        "imagen": "./img/remera 05.jfif",
+        "categoria": {
+            "nombre": "remeras",
+            "id": "remeras"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón Nacho F",
+        "imagen": "./img/pantalon 01.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 26000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón Borja",
+        "imagen": "./img/pantalon 02.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 9000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón Salo",
+        "imagen": "./img/pantalon 03.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón Solari",
+        "imagen": "./img/pantalon 04.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 36000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón Colidio",
+        "imagen": "./img/pantalon 05.webp",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 16000
+    }
+]
